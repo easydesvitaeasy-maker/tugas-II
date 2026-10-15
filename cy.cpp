@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     string menu[2]={"soto", "rawon"};
-    int harga[2]={10000, 15000};
+    int harga[2]={10000, 20000};
     int porsi[2];
     int total[2];
     int i;
